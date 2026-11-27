@@ -303,7 +303,9 @@
     "hazirlanma": "27-11-2026",
     "yayin_gunu": "30-11-2026",
     "tur": "aksiyon",
-    "durum": "taslak"
+    "durum": "taslak",
+    "metricool_id": 444363908,
+    "metricool_uuid": "1352331479943825450"
   },
   {
     "dosya": "Standing Seam Roof/IMG_7831.DNG",
@@ -311,7 +313,9 @@
     "hazirlanma": "27-11-2026",
     "yayin_gunu": "30-11-2026",
     "tur": "aksiyon",
-    "durum": "taslak"
+    "durum": "taslak",
+    "metricool_id": 444363908,
+    "metricool_uuid": "1352331479943825450"
   },
   {
     "dosya": "Standing Seam Roof/IMG_7856.DNG",
@@ -319,6 +323,8 @@
     "hazirlanma": "27-11-2026",
     "yayin_gunu": "30-11-2026",
     "tur": "aksiyon",
-    "durum": "taslak"
+    "durum": "taslak",
+    "metricool_id": 444363908,
+    "metricool_uuid": "1352331479943825450"
   }
 ]
