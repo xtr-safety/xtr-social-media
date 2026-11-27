@@ -316,5 +316,23 @@
     "durum": "taslak",
     "metricool_id": 444363908,
     "metricool_uuid": "1352331479943825450"
+  },
+  {
+    "dosya": "Brochures/XTR-Safety-Brosur-2026-TR.pdf (kapak)",
+    "alt_klasor": "Brochures",
+    "hazirlanma": "27-11-2026",
+    "yayin_gunu": "02-12-2026",
+    "tur": "banner",
+    "durum": "taslak",
+    "not": "Yeni katalog duyurusu"
+  },
+  {
+    "dosya": "Brochures/XTR-Safety-Brochure-2026-EN.pdf (kapak)",
+    "alt_klasor": "Brochures",
+    "hazirlanma": "27-11-2026",
+    "yayin_gunu": "02-12-2026",
+    "tur": "banner",
+    "durum": "taslak",
+    "not": "Yeni katalog duyurusu"
   }
 ]
