@@ -283,7 +283,9 @@
     "hazirlanma": "27-11-2026",
     "yayin_gunu": "30-11-2026",
     "tur": "aksiyon",
-    "durum": "taslak"
+    "durum": "taslak",
+    "metricool_id": 444280675,
+    "metricool_uuid": "3891607791435009070"
   },
   {
     "dosya": "Overhead Systems/IMG_5290.JPG",
@@ -291,6 +293,8 @@
     "hazirlanma": "27-11-2026",
     "yayin_gunu": "30-11-2026",
     "tur": "aksiyon",
-    "durum": "taslak"
+    "durum": "taslak",
+    "metricool_id": 444280675,
+    "metricool_uuid": "3891607791435009070"
   }
 ]
